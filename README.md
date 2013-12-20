@@ -8,4 +8,4 @@ Requires:
 * Mosquitto python bindings (pip3 install mosquitto)
 
 Usage:
-flukso-mqtt-read.py <ip_of_flusko>
+flukso-mqtt-read.py \<ip_of_flusko\>
